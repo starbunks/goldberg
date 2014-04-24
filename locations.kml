@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Goldberg Law Group.</name>
+		<atom:author>
+			<atom:name>Goldberg</atom:name>
+		</atom:author>
+		<atom:link rel="related" href="http://www.goldberglawoffice.com" />
+		<Folder>
+			<Placemark>
+				<name><![CDATA[Goldberg Law Group]]></name>
+				<address><![CDATA[120 South Riverside Plaza, Suite 1675, Chicago, IL, 60606, United States]]></address>
+				<description><![CDATA[Goldberg law group is fighting for their clients since last 40 years. If you are looking for experienced and expert attorney in Illinois for Grandparent visitation rights, medical license or physician license call us on (312) 930-5600 for consultation.]]></description>
+				<Point>
+					<coordinates>-87.639055,41.879707,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

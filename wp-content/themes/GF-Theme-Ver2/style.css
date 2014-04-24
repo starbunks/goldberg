@@ -1,0 +1,19 @@
+/*
+Theme Name: GF Theme Ver2
+Description: Custom Theme for Goldberg Law Office websites
+Version: 2.0
+Author: Jason Montalto
+Tags: GF Theme Ver2
+*/
+
+@import "css/reset.css";
+@import "css/layout.css";
+@import "css/tabs.css";
+@import "css/aboutus.css";
+@import "css/corporatehome.css";
+@import "css/healthcare.css";
+@import "css/grandparent-visitation.css";
+@import "css/licensing.css";
+@import "css/familylaw.css";
+@import "css/bio.css";
+@import "css/typography.css";

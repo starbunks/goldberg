@@ -1,0 +1,29 @@
+
+/* Bio Styles */
+/* ----------------------------------------- */
+
+img.bioThumb{
+	border: 1px solid #002252;
+	margin: 0px 10px 10px 0px;
+}
+
+h1.bioTitle{
+	margin-bottom: 15px;
+}
+
+img.bioFull{
+	border: 1px solid #002252;
+	margin: 0px 20px 10px 0px;
+}
+
+p.breadcrumbs{
+	color: #002252;
+}
+
+
+div.bio-sidebar-item{
+	margin-bottom:15px;
+}
+
+
+

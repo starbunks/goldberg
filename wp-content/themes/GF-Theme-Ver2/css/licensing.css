@@ -1,0 +1,64 @@
+
+/* IL PROF LICENSING HOME */
+/* ----------------------------------------- */
+
+
+div.licensing-content{
+	display:block;
+	float:left;
+	width:448px;
+}
+
+div.right-sidebar{
+	background: #eee8e0;
+	padding: 10px 0 10px 0;
+}
+
+div.right-sidebar li{
+	width:194px;
+	margin: 0 10px 0 10px;
+}
+
+div.licensingcontent-subpage-teaser{
+	display:block;
+	float:left;
+	margin: 20px 0 0 0;
+	width: 448px;
+}
+div.licensingcontent-subpage-teaser li{
+	display:block;
+	float:left;
+	margin-top: 20px;
+	width: 208px;
+	text-align:center;
+	background: #e3d8cc;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	-khtml-border-radius: 7px;
+	border-radius: 7px;
+	-moz-box-shadow: 2px 2px 3px 0px #bbbbbb;
+	-webkit-box-shadow: 2px 2px 3px 0px #bbbbbb;
+	box-shadow: 2px 2px 3px 0px #bbbbbb;
+}
+
+li.right-subpage-widget{
+	margin-left: 15px;
+}
+
+div.licensingcontent-subpage-teaser li h3{
+	margin:10px 10px 0 10px;
+}
+
+div.licensingcontent-subpage-teaser li div{
+	margin:0 10px 10px 10px;
+}
+
+.licensingcontent-subpage-teaser li.widget-container  a.subpage-link{
+	color: ##752641;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.licensingcontent-subpage-teaser li.widget-container div{
+	color: #002252;
+}

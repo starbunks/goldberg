@@ -1,0 +1,104 @@
+body {	margin-left: 0px;	margin-top: 0px;}
+
+.vertRule {	background-image: url(../graphics/rule.gif);	background-repeat: repeat-y;	background-position: center top;}
+
+
+.hotnav {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: 11px; font-weight: bold; color: #000000; text-align: center}
+a.hotnav:link {color: #000000; text-decoration: none;}
+a.hotnav:active {color: #000000; text-decoration: none;}
+a.hotnav:visited {color: #000000; text-decoration: none;}
+a.hotnav:hover {color: #39834A; text-decoration: none;}
+
+.coldnav {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: 12px; font-weight: bold; color: #333366; text-align: center}
+a.coldnav:link {color: #333366; text-decoration: none;}
+a.coldnav:active {color: #333366; text-decoration: none;}
+a.coldnav:visited {color: #333366; text-decoration: none;}
+a.coldnav:hover {color: #39834A; text-decoration: none;}
+
+.mainhead {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 18px; font-style: normal; line-height: 25px; font-weight: bold; color: #002252}
+
+.smallhead {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 14px; line-height: 18px; font-weight: bold; color: #002252}
+
+.smallheadRed {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 14px; line-height: 20px; font-weight: bold; color: #752641}
+
+.teaserHead{font-family: Georgia, "Times New Roman", Times, serif;	font-size: 11px;	line-height: 14px;	color: #666666;	font-weight: normal;}
+a.teaserHead:link {color: #752641;  text-decoration: none;}
+a.teaserHead:active {color: #752641;  text-decoration: none;}
+a.teaserHead:visited {color: #752641;  text-decoration: none;}
+a.teaserHead:hover {color: #752641; text-decoration: underline;}
+
+.blacksub {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: 16px; font-weight: bold; color: #000000}
+a.blacksub:link {color: #39834A; text-decoration: underline;}
+a.blacksub:active {color: #39834A; text-decoration: underline;}
+a.blacksub:visited {color: #333366; text-decoration: underline;}
+a.blacksub:hover {color: #39834A; text-decoration: underline;}
+
+.graysub {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 12px; line-height: 15px; font-weight: bold; color: #414B56}
+a.graysub:link {color: #414B56; }
+a.graysub:active {color: #414B56; }
+a.graysub:visited {color: #414B56; }
+a.graysub:hover {color: #414B56; text-decoration: underline;}
+
+.error {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: 16px; font-weight: bold; color: #FF0000}
+a.error:link {color: #39834A; text-decoration: underline;}
+a.error:active {color: #39834A; text-decoration: underline;}
+a.error:visited {color: #333366; text-decoration: underline;}
+a.error:hover {color: #39834A; text-decoration: underline;}
+
+.bodybig {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 14px; line-height: 20px; color: #666666}
+a.bodybig:link {color: #752641;  text-decoration: none;}
+a.bodybig:active {color: #752641;  text-decoration: none;}
+a.bodybig:visited {color: #752641;  text-decoration: none;}
+a.bodybig:hover {color: #752641; text-decoration: underline;}
+
+.bodybigbold {	font-family: Georgia, "Times New Roman", Times, serif;	font-size: 14px;	line-height: 20px;	color: #666666;	font-weight: bold;}
+a.bodybigbold:link {color: #752641;  text-decoration: none;}
+a.bodybigbold:active {color: #752641;  text-decoration: none;}
+a.bodybigbold:visited {color: #752641;  text-decoration: none;}
+a.bodybigbold:hover {color: #752641; text-decoration: underline;}
+
+.bodysmall {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 15px; color: #666666}
+a.bodysmall:link {color: #752641; text-decoration: none;}
+a.bodysmall:active {color: #752641;  text-decoration: none;}
+a.bodysmall:visited {color: #752641;  text-decoration: none;}
+a.bodysmall:hover {color: #752641; text-decoration: underline;}
+
+.bodysmallbold {	font-family: Georgia, "Times New Roman", Times, serif;	font-size: 11px;	line-height: 15px;	color: #666666;	font-weight: bold;}
+a.bodysmallbold:link {color: #752641;  text-decoration: none;}
+a.bodysmallbold:active {color: #752641;  text-decoration: none;}
+a.bodysmallbold:visited {color: #752641;  text-decoration: none;}
+a.bodysmallbold:hover {color: #752641; text-decoration: underline;}
+
+.accent {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 13px;
+	font-weight: normal;
+	color: #333366;
+}
+a.accent:link {color: #752641;  text-decoration: none;}
+a.accent:active {color: #752641;  text-decoration: none;}
+a.accent:visited {color: #752641;  text-decoration: none;}
+a.accent:hover {color: #752641; text-decoration: underline;}
+
+.caption {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 10px; font-style: normal; line-height: 12px; font-weight: bold; color: #002252}
+a.caption:link {color: #002252;  text-decoration: none;}
+a.caption:active {color: #002252;  text-decoration: none;}
+a.caption:visited {color: #002252;  text-decoration: none;}
+a.caption:hover {color: #002252; text-decoration: underline;}
+
+.footer {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; color: #666666}
+a.footer:link {color: #752641;  text-decoration: none;}
+a.footer:active {color: #752641;  text-decoration: none;}
+a.footer:visited {color: #752641; text-decoration: none; }
+a.footer:hover {color: #752641; text-decoration: underline;}
+
+.contentTable {	background-color: #F3EEE4;}
+.borderLeftandRight {	border-left-width: 1px;	border-left-style: solid;	border-left-color: #C7B299;	border-right-width: 1px;	border-right-style: solid;	border-right-color: #C7B299;}
+.borderLeft {	border-left-width: 1px;	border-left-style: solid;	border-left-color: #C7B299;}
+.borderRight {	border-right-width: 1px;	border-right-style: solid;	border-right-color: #C7B299;}
+.borderFooter {	border-bottom-width: 1px;	border-bottom-style: solid;	border-bottom-color: #C7B299; border-left-width: 1px;	border-left-style: solid;	border-left-color: #C7B299; border-right-width: 1px;	border-right-style: solid;	border-right-color: #C7B299;}
+
+.redsub {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: 14px; font-weight: bold; color: #D61C38}
+.redsub2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; line-height: 12px; font-weight: bold; color: #D61C38}

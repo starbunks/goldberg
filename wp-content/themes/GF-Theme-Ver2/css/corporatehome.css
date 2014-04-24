@@ -1,0 +1,52 @@
+
+/* CORPORATE HOME */
+/* ----------------------------------------- */
+
+
+div.corporate-home-sidebar{
+	display:block;
+	float:left;
+	width:175px;
+}
+
+div.corporate-home-sidebar li.widget-container{
+	margin-bottom:20px;
+}
+
+div.twocol-contentcontainer div.leftColumn{
+	float:left;
+	width:214px;
+	margin:0px;
+}
+
+div.twocol-contentcontainer div.middleColumn{
+	float:left;
+	width:214px;
+	margin:0 0 0 20px;
+}
+
+div.twocol-contentcontainer div.rightColumn{
+	float:left;
+	width:214px;
+	margin:0 0 0 20px;
+}
+
+div.twocol-contentcontainer h3{
+	margin-bottom: 4px;
+}
+
+div.twocol-contentcontainer p, a, ul{
+	margin-bottom: 20px;
+}
+
+div#wp-realtime-sitemap-pages ul.children{
+	margin-bottom:0;
+}
+
+div.twocol-contentcontainer ul{
+	margin-left: 12px;
+}
+
+div.twocol-contentcontainer li{
+	list-style: disc;
+}

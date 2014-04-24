@@ -1,0 +1,49 @@
+
+/* FAMILY LAW HOME */
+/* ----------------------------------------- */
+div.aboutus-subpage-teaser{
+	display:block;
+	float:left;
+	margin: 20px 0 0 0;
+	width: 682px;
+}
+
+div.aboutus-subpage-teaser li{
+	display:block;
+	float:left;
+	margin-top: 20px;
+	width: 212px;
+	height: 200px;
+	text-align:center;
+	background: #e3d8cc;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	-khtml-border-radius: 7px;
+	border-radius: 7px;
+	-moz-box-shadow: 2px 2px 3px 0px #bbbbbb;
+	-webkit-box-shadow: 2px 2px 3px 0px #bbbbbb;
+	box-shadow: 2px 2px 3px 0px #bbbbbb;
+	cursor:pointer;
+}
+
+li.right-subpage-widget{
+	margin-left: 15px;
+}
+
+div.aboutus-subpage-teaser li h3{
+	margin:10px 10px 0 10px;
+}
+
+div.aboutus-subpage-teaser li div{
+	margin:0 10px 10px 10px;
+}
+
+.aboutus-subpage-teaser li.widget-container  a.subpage-link{
+	color: ##752641;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.aboutus-subpage-teaser li.widget-container div{
+	color: #002252;
+}

@@ -1,0 +1,36 @@
+<?php 	
+$args = array(
+				"child_of" => 48,
+				"include" => array(50,52,207,209,211,213,215),
+				"sort_column" => 'post_title'
+			);
+$bioPages = get_pages($args);
+foreach($bioPages as $page){
+	$content = $page->post_content;
+	if(!$content){
+		continue;
+	} 
+	$content = apply_filters('the_content', $content); ?>
+	<div class="bio-sidebar-item">
+	<h3><a href="?page_id=<?php echo($page->ID); ?>"><?php echo($page->post_title); ?></a></h3>
+		<a href="?page_id=<?php echo($page->ID); ?>">
+			<?php if(has_post_thumbnail($page->ID)) {
+				$dimensions = array(100, 100);
+				$img_args = array(
+									'class' => 'bioThumb',
+									'align' => 'left'
+								);
+				echo(get_the_post_thumbnail($page->ID, $dimensions, $img_args));
+			} else {?>
+				<img class="bioThumb" align="left" src="/wp-content/themes/GF-Theme-Ver2/images/bio/default.jpg" width="100" height="100" />
+			<?php }	?>
+		</a>
+		 <?php 
+			if ($page->post_excerpt){
+				echo($page->post_excerpt);
+			}else{
+				echo("no excerpt");						
+			}?>
+	</div>
+	<br class="clear" />	
+<?php } ?>
