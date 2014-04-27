@@ -14,6 +14,10 @@
  * @package WordPress
  */
 
+
+// define('WP_SITEURL', 	'http://127.0.0.1:3000');
+// define('WP_HOME', 		'http://127.0.0.1:3000');
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'goldberg');
@@ -42,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         'bA2.)+.bS|0Lqe<;o$(J61K%bGjjVI4|+b%+!ue8bm-D-H+G%@td]+$VZ8EOImC=');
+define('SECURE_AUTH_KEY',  ']y9*y-sV7^F9ao30A|2d0{,8MBKos^yr(2,%R<kVl=pT?sa4.Q.4ewqRBUjpIh|!');
+define('LOGGED_IN_KEY',    '4T8XWoY&G[c+;jHW%.j^rG6vf;R</YXfj,*8oKH1/.y%M6+8np`njzr=qlv%FQUF');
+define('NONCE_KEY',        'eNPBl-`ESa{ycL!|& 5j=UC}adt2nzIq)#+KO)-#9jMd9LKC|jQk+L]u5+@z>n,:');
+define('AUTH_SALT',        '#uB&|6XIx(b#G:8l[roc0ulSf-8B*9AyeG{:F{-A$xq::DtDIc_5=zOJ2G.@KAa/');
+define('SECURE_AUTH_SALT', 'pDI6OtG7&4C$>MX3_Ha)LB5iT3T8X~971f=UdZRi]^+%.w#H,^~YTOD>Nvkm^rR&');
+define('LOGGED_IN_SALT',   ')l/D{H&c|-U2yw)NLFP{yLE?+~Sd<y+|Z!Z?z#+9@F=gQ(taZ:b}b&oK(~j(|`%g');
+define('NONCE_SALT',       'zi-I+>|Rb1gekC3Fv2HfZo.^ZIFxZ-3>e18r460)78/)FDph8o|S^,FSv{IwS^co');
 
 /**#@-*/
 
@@ -59,7 +63,7 @@ define('NONCE_SALT',       'put your unique phrase here');
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'gfmain_';
 
 /**
  * WordPress Localized Language, defaults to English.
